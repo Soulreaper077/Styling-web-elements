@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* header section of the webpage */
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,6 +42,8 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
+
+/* end of the header section */
 
 a {
     color: #ffffff;
@@ -74,10 +78,8 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
-
-
-.benefits{
+/* section for benefits div */
+section {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -88,10 +90,12 @@ p {
     background-color: #2589bd;
 }
 
-/* jkdj */
+/* class for the benefits section */
+
 .ben {
     margin-bottom: 32px;
     color: #ffffff;
+    float: right;
 }
 
 .ben h3 {
@@ -99,14 +103,15 @@ p {
     text-align: center;
 }
 
-/* flkj */
 .ben img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
+/* end of the benefits section of code */
 
-/* */
+
+/* class for the cards in the middle of the webpage */
 
 .cards {
     margin-bottom: 20px;
@@ -117,18 +122,15 @@ p {
     color: #ffffff;
 }
 
-/* j*/
-
 .cards img {
     max-height: 200px;
 }
-
-/* */ 
 
 .cards h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* end of the cards section of code */
 
 /* Footer Section */
 .footer {
