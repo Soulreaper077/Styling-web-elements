@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+
 /* header section of the webpage */
 
 .header {
@@ -45,6 +46,8 @@ body {
 
 /* end of the header section */
 
+
+/* font for all the paragraphs */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -54,6 +57,8 @@ p {
     font-size: 16px;
 }
 
+
+/* Start of the hero section */
 .hero {
     height: 800px;
     width: 100%;
@@ -63,6 +68,7 @@ p {
     background-position: center;
 }
 
+/* floats for the content in cards */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -78,6 +84,10 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+
+/* end of the hero section */
+
+
 /* section for benefits div */
 section {
     margin-right: 20px;
